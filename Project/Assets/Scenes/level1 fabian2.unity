@@ -2305,7 +2305,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1027657863}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58291ae105eab674c8182c06f53142f0, type: 3}
+  m_Script: {fileID: 11500000, guid: 74aca7a1a10df144ab0efa9f4c519c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   textoMonedas: {fileID: 415603990}
