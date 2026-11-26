@@ -22,3 +22,6 @@
 # Varios
 .DS_Store
 *.log
+# Recuperacion de Unity
+/Assets/_Recovery/
+/Assets/_Recovery.meta
